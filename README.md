@@ -33,6 +33,7 @@ __Last updated: 2025/05/20__
   - Visual Studio Code
   - JetBrains
   - IdeaVim
+  - tmux
   - Cursor
   - Claude Code
   - Git
