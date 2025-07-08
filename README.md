@@ -1,16 +1,86 @@
-## Hi there 👋
+# Resume
 
-<!--
-**fizzkazz/fizzkazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
 
-Here are some ideas to get you started:
+フリーランスとして主にWebアプリケーションの開発を行っています。
+準委任契約という形で、主にクライアント様の開発チームへ参画してのお力添えを行っております。(現在、請負契約での成果物納品を前提としたご支援はお受けしておりません)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__Last updated: 2025/05/20__
+
+## Contact
+
+- Email: kzkngur@gmail.com
+- GitHub: [fizzkazz](https://github.com/fizzkazz)
+
+## tl;dv
+
+- Webアプリケーション開発実務経験: 6年目
+- (相対的に)得意なこと、好きなこと
+  - バックエンドアプリケーションの開発・特にWebAPIの設計と開発
+    - Ruby on Rails(Ruby): 累計3年程度
+    - FastAPI(Python): 累計2年程度
+    - ~~staticな言語のほうが好み~~
+  - ~~カオス化したコードの~~ リファクタリング
+  - テーブル設計
+  - ユニットテスト設計&実装
+  - ふわっとした状態からの要件定義と実装
+- できること
+  - フロントエンドアプリケーションのコーディング・リファクタリング
+    - フロントエンド全般(TypeScript): 累計2年半程度
+  - CI/CDの設計&実装
+  - E2Eテストの設計&実装(Playwright)
+- 馴染みのあるツール / サービス
+  - Visual Studio Code
+  - JetBrains
+  - IdeaVim
+  - tmux
+  - Cursor
+  - Claude Code
+  - Git
+  - GitHub
+  - Docker
+  - AWS
+  - GCP
+  - Slack
+  - Backlog
+  - Notion
+
+## 経歴
+
+### S社(受託開発)
+
+- **期間**: 2020/09 - 2021/03 (インターン)
+- **役割**: バックエンドエンジニア
+
+| 時期 | プロジェクト概要 | 言語 | 使用技術 | 使用IaaS等 | 担当業務 | チーム規模 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2020年9月 - 2021年3月 | toC モバイルアプリケーションのバックエンド開発 | Ruby | Ruby on Rails, MySQL | AWS | WebAPI設計、コーディング | 20名程度 |
+
+- **期間**: 2021年4月 - 2024年3月（正社員）
+- **役割**: バックエンドエンジニア / フロントエンドエンジニア
+
+| 時期 | プロジェクト概要 | 言語 | 使用技術 | 使用IaaS等 | 担当業務 | チーム規模 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2021年4月 - 2022年3月 | ML画像解析結果を提供するWebAPI開発 | Python | PostgreSQL, FastAPI, Numpy, Pandas, OpenCV, 非公開MLライブラリ | AWS | 要件定義、DB設計、ML動体トラッキングのメタプログラミングツールの開発、API設計、コーディング | 3名程度 |
+| 2022年4月 - 2023年3月 | toC Webアプリケーションのフロントエンド開発 | TypeScript | Next.js, TailwindCSS, Storybook | Firebase | UIコンポーネント設計、コーディング | 20名程度 |
+| 2022年10月 - 2023年4月 | ブロックチェーンマーケットプレイスの開発 | TypeScript, Solidity | Firestore, React.js, DynamoDB, GraphQL | AWS Amplify | 要件定義, 顧客折衝(技術要件面), コーディング, スクラム開発運用 | 5名程度 |
+| 2023年5月 - 2024年3月 | ポイント系アプリの開発 | Ruby | Ruby on Rails, PostgreSQL | AWS | 要件定義, 顧客折衝(技術要件面), 協力ベンダー折衝, 設計, パフォーマンステストの実施 | 30名程度 |
+
+### G社(自社サービス開発)
+
+- **期間**: 2024年4月 - 2025年3月 (正社員)
+- **役割**: フルスタックエンジニア
+
+| 時期 | プロジェクト概要 | 言語 | 使用技術 | 使用IaaS等 | 担当業務 | チーム規模 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024年4月 - 2025年3月 | 電子カルテ・予約システム等の開発 | Ruby, TypeScript | Ruby on Rails, MySQL, Angular | GCP | Webアプリケーション全般のコーディング、テスト、要件定義 | 8名程度 |
+
+### 業務委託 / フリーランス
+
+- **期間**: 2023年12月 - 現在
+- **役割**: フルスタックエンジニア
+
+| 時期 | プロジェクト概要 | 言語 | 使用技術 | 使用IaaS等 | 担当業務 | チーム規模 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2023年12月 - 2024年8月 | ベクトル検索を用いた自然言語抽出システム | Python | Azure OpenAI, ChromaDB, Numpy, Pandas | Azure | 要件定義, 設計, コーディング | 3名 |
+| 2025年1月 - 現在 | 生成AIを用いた産業向け業務ドキュメント生成ツール | TypeScript | Remix, TailwindCSS, PostgreSQL | AWS | 要件定義, 設計, コーディング | 3名 |
